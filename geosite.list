@@ -8,4 +8,8 @@ DOMAIN-SUFFIX,zhimg.com
 # Tencent - 腾讯相关域名
 # ------------------------------
 DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,qq.com.cn
+DOMAIN-SUFFIX,qpic.cn
+DOMAIN-SUFFIX,qlogo.cn
 DOMAIN-SUFFIX,tencent.com
+DOMAIN-SUFFIX,tenpay.com
