@@ -1,6 +1,11 @@
-# zhihu
-zhihu.com
-zhimg.com
+# ------------------------------
+# Zhihu - 知乎相关域名
+# ------------------------------
+DOMAIN-SUFFIX,zhihu.com
+DOMAIN-SUFFIX,zhimg.com
 
-# tencent
-qq.com
+# ------------------------------
+# Tencent - 腾讯相关域名
+# ------------------------------
+DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,tencent.com
