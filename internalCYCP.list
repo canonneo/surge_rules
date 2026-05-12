@@ -1,4 +1,4 @@
 # used for internal services of cycp-work
-IP-CIDR, 192.168.10.0/24
-IP-CIDR, 192.168.0.0/24
-IP-CIDR, 192.168.21.0/24
+IP-CIDR,192.168.10.0/24
+IP-CIDR,192.168.0.0/24
+IP-CIDR,192.168.21.0/24
