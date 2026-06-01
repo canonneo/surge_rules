@@ -1,0 +1,7 @@
+# 字节跳动广告
+DOMAIN-KEYWORD, pangolin-sdk, REJECT
+DOMAIN-SUFFIX, pglstatp-toutiao.com, REJECT
+
+# 优量汇 (Tencent GDT) - 截图中的 mi.gdt.qq.com
+DOMAIN-SUFFIX, gdt.qq.com, REJECT
+DOMAIN-SUFFIX, ugdtimg.com, REJECT
