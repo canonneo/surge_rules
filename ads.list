@@ -27,6 +27,10 @@ DOMAIN-SUFFIX,66mobi.com,REJECT
 DOMAIN-SUFFIX,adwangmai.com,REJECT
 DOMAIN-SUFFIX,hongxiu158.com,REJECT
 DOMAIN-SUFFIX,zhangyuyidong.cn,REJECT
+DOMAIN-SUFFIX,shanghailingye.cn,REJECT
+DOMAIN-SUFFIX,bridgeoos.com,REJECT
+DOMAIN-SUFFIX,vlion.cn.com,REJECT
+
 
 
 DOMAIN-SUFFIX, tanx.com, REJECT
