@@ -16,4 +16,6 @@ DOMAIN-SUFFIX, partner.sm.cn, REJECT
 
 
 DOMAIN-SUFFIX, tanx.com, REJECT
-DOMAIN-SUFFIX, atm.youku.com.com, REJECT
+DOMAIN-SUFFIX, atm.youku.com, REJECT
+
+DOMAIN-SUFFIX, funimg.pddpic.com, REJECT
