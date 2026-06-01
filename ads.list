@@ -25,3 +25,5 @@ DOMAIN-SUFFIX,adform.net,REJECT-DROP
 DOMAIN-SUFFIX,adsafeprotected.com,REJECT-DROP
 
 DOMAIN,securepubads.g.doubleclick.net,REJECT-DROP
+
+DOMAIN-SUFFIX,mobads.baidu.com,REJECT-DROP
