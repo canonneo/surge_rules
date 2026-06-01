@@ -14,6 +14,15 @@ DOMAIN-SUFFIX, advlion.com, REJECT
 DOMAIN-SUFFIX, mssdk.volces.com, REJECT
 DOMAIN-SUFFIX, partner.sm.cn, REJECT
 
+#德施曼广告
+DOMAIN-SUFFIX,1rtb.net,REJECT
+DOMAIN-SUFFIX,adn-plus.com.cn,REJECT
+DOMAIN-SUFFIX,xdmssp.com,REJECT
+DOMAIN-SUFFIX,beizi.biz,REJECT
+DOMAIN-SUFFIX,voiceads.cn,REJECT
+DOMAIN-SUFFIX,t-dsp.pinduoduo.com,REJECT
+DOMAIN-SUFFIX,ubixioe.com,REJECT
+
 
 DOMAIN-SUFFIX, tanx.com, REJECT
 DOMAIN-SUFFIX, atm.youku.com, REJECT
