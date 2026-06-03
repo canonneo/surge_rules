@@ -42,6 +42,10 @@ DOMAIN-SUFFIX, atm.youku.com, REJECT
 
 DOMAIN-SUFFIX, funimg.pddpic.com, REJECT
 
+DOMAIN-SUFFIX,adashx.m.taobao.com,REJECT
+DOMAIN-SUFFIX,toblog.ctobsnssdk.com,REJECT
+DOMAIN-SUFFIX,px.ucweb.com,REJECT
+
 
 DOMAIN-SUFFIX,adform.net,REJECT-DROP
 DOMAIN-SUFFIX,adsafeprotected.com,REJECT-DROP
